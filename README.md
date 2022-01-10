@@ -1,6 +1,6 @@
 **I’m an IT professional who is really excited,enthusiastic and talks about _Natural Language Processing, Machine Learning, Data Science, Deep Learning._**
 
-**Master’s and a Bachelor’s degree in Computer and Data Science coupled with industry and Research Experience focusing on Data Science.**
+**Master’s and Bachelor’s degree in Computer and Data Science coupled with industry and Research Experience focusing on Data Science.**
 
 **My academic and professional experience includes working on Data Analysis projects using tools such as _Python, AWS SageMaker, Azure Machine Learning Studio, Tableau and MySQL._**
 
