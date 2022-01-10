@@ -4,7 +4,7 @@
 
 **My academic and professional experience includes working on Data Analysis projects using tools such as _Python, AWS SageMaker, Azure Machine Learning Studio, Tableau and MySQL._**
 
-**I always thrive to expand my skill set by enjoying being a part of challenging projects that require me to become better every day by pushing me to learn new developing technologies and techniques.**
+**I always thrive to expand my skill set by enjoying being part of challenging projects that require me to become better every day by pushing me to learn new developing technologies and techniques.**
 
 
 
