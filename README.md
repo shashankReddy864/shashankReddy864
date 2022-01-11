@@ -1,4 +1,4 @@
-**I’m an IT professional who is really excited,enthusiastic and talks about _Natural Language Processing, Machine Learning, Data Science, Deep Learning._**
+**I’m an IT professional who is really excited,enthusiastic who talks about _Natural Language Processing, Machine Learning, Data Science, Deep Learning._**
 
 **Master’s and Bachelor’s degree in Computer and Data Science coupled with industry and Research Experience focusing on Data Science.**
 
