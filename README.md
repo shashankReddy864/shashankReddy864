@@ -1,4 +1,4 @@
-**I’m an IT professional who talks about _Natural Language Processing, Machine Learning, Data Science, Deep Learning._**
+**I’m an IT professional who talks about Machine Learning, Data Science, Deep Learning, Natural Language Processing_**
 
 **Master’s and Bachelor’s degree in Computer and Data Science coupled with industry and Research Experience focusing on Clustering based Unsupervised Machine Learning and Fuzzy keyword Matching.**
 
